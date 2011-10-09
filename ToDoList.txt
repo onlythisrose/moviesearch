@@ -1,0 +1,3 @@
+add commandline to webscience.py
+functions to read meta tag in the search results
+compare search results, if value==0 for all, add one sponsored link on the top of the search results
